@@ -1,0 +1,248 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?3brl01');
+  src:  url('fonts/icomoon.eot?3brl01#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?3brl01') format('truetype'),
+    url('fonts/icomoon.woff?3brl01') format('woff'),
+    url('fonts/icomoon.svg?3brl01#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="mm-icon-"], [class*=" mm-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mm-icon-1 .path1:before {
+  content: "\e900";
+  color: #2196f3;
+}
+.mm-icon-1 .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: #fff;
+}
+.mm-icon-2 .path1:before {
+  content: "\e902";
+  color: #2196f3;
+}
+.mm-icon-2 .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: #fff;
+}
+.mm-icon-3 .path1:before {
+  content: "\e904";
+  color: #fff;
+}
+.mm-icon-3 .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: #2196f3;
+}
+.mm-icon-4 .path1:before {
+  content: "\e906";
+  color: #fff;
+}
+.mm-icon-4 .path2:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: #2196f3;
+}
+.mm-icon-5 .path1:before {
+  content: "\e908";
+  color: #fff;
+}
+.mm-icon-5 .path2:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: #2196f3;
+}
+
+.mm-icon-7 .path1:before {
+    content: "\f132";
+    font-size: 35px;
+    position: absolute;
+    font-family: FontAwesome;
+    right: 31%;
+    top: 64%;
+}
+.mm-icon-7 .path2:before {
+    content: "\f007";
+    color: #fff;
+    margin-left: 0;
+    font-family: FontAwesome;
+}
+
+.mm-icon-8 .path1:before {
+    content: "\f1ad";
+    font-size: 35px;
+    position: absolute;
+    font-family: FontAwesome;
+    top: 50%;
+    right: 24%;
+}
+.mm-icon-8 .path2:before {
+    content: "\f108";
+    color: #fff;
+    margin-left: 0;
+    font-family: FontAwesome;
+}
+
+.mm-icon-9 .path1:before {
+    content: "\f155";
+    font-size: 35px;
+    position: absolute;
+    font-family: FontAwesome;
+    top: 16%;
+    right: 44%;
+}
+.mm-icon-9 .path2:before {
+    content: "\f201";
+    color: #fff;
+    margin-left: 0;
+    font-family: FontAwesome;
+}
+/* .mm-icon-10 .path1:before {
+    content: "\f27e";
+    font-size: 35px;
+    position: absolute;
+    font-family: FontAwesome;
+    right: 43%;
+    top: 49%;
+} */
+.mm-icon-10 .path2:before {
+    content: "\f007";
+    color: #fff;
+    margin-left: 0;
+    font-family: FontAwesome;
+}
+
+.mm-icon-11 .path1:before {
+    content: "\f06e";
+    font-size: 40px;
+    position: absolute;
+    font-family: FontAwesome;
+    right: 42%;
+    top: 8%;
+}
+.mm-icon-11 .path2:before {
+    content: "\f21d";
+    color: #fff;
+    margin-left: 0;
+    font-family: FontAwesome;
+}
+.mm-icon-13 .path1:before {
+  content: "\f071";
+  color: #5050ca;
+  font-size: 35px;
+  position: absolute;
+  font-family: FontAwesome;
+  right: 34%;
+  top: 43%;
+}
+.mm-icon-13 .path2:before {
+  content: "\f15b";
+  color: #fff;
+  margin-left: 0;
+  font-family: FontAwesome;
+}
+
+.mm-icon-15 .path1:before {
+  content: "\f201";
+  position: absolute;
+  color: #2196f3;
+  font-family: FontAwesome;
+  right: 43%;
+  top: 40%;
+  font-size: 36px;
+}
+.mm-icon-15 .path2:before {
+  content: "\f0e9";
+  color: #fff;
+  margin-left: 0;
+  font-family: FontAwesome;
+  font-size: 75px;
+}
+.mm-icon-16{
+  background: url(../img/node_red.svg) center/125px no-repeat;
+  height: 96px;
+  display: block;
+}
+.mm-icon-17 {
+  background: url(../img/NPA.svg) 50% 80%/95px no-repeat;
+  height: 96px;
+  display: block;
+}
+.mm-icon-18 {
+  background: url(../img/metabase.svg) 50% 80%/95px no-repeat;
+  height: 96px;
+  display: block;
+}
+.mm-icon-12{
+  background: url(../img/fund_registry.svg) center/56px no-repeat;
+  height: 96px;
+}
+
+.mm-icon-7, .mm-icon-8, .mm-icon-9, .mm-icon-10, .mm-icon-11.mm-icon-13{
+    position: relative;
+}
+
+@media (max-width: 768px){
+    .mm-block .mm-icon{
+        font-size: 76px;
+    }
+}
+
+
+.skin-purple .mm-icon-1 .path1:before,
+.skin-purple .mm-icon-2 .path1:before,
+.skin-purple .mm-icon-3 .path2:before,
+.skin-purple .mm-icon-4 .path2:before,
+.skin-purple .mm-icon-5 .path2:before,
+.skin-purple .mm-icon-7 .path2:before,
+.skin-purple .mm-icon-8 .path2:before,
+.skin-purple .mm-icon-9 .path2:before,
+.skin-purple .mm-icon-10 .path2:before,
+.skin-purple .mm-icon-11 .path2:before
+.skin-purple .mm-icon-13 .path2:before
+{color: #5050ca;}
+
+.skin-blue .mm-icon-1 .path1:before,
+.skin-blue .mm-icon-2 .path1:before,
+.skin-blue .mm-icon-3 .path2:before,
+.skin-blue .mm-icon-4 .path2:before,
+.skin-blue .mm-icon-5 .path2:before
+{color: #7ec3fb;}
+
+.skin-green .mm-icon-1 .path1:before,
+.skin-green .mm-icon-2 .path1:before,
+.skin-green .mm-icon-3 .path2:before,
+.skin-green .mm-icon-4 .path2:before,
+.skin-green .mm-icon-5 .path2:before
+{color: #05de7b;}
+
+.skin-red .mm-icon-1 .path1:before,
+.skin-red .mm-icon-2 .path1:before,
+.skin-red .mm-icon-3 .path2:before,
+.skin-red .mm-icon-4 .path2:before,
+.skin-red .mm-icon-5 .path2:before
+{color: #f76755;}
+
+.skin-yellow .mm-icon-1 .path1:before,
+.skin-yellow .mm-icon-2 .path1:before,
+.skin-yellow .mm-icon-3 .path2:before,
+.skin-yellow .mm-icon-4 .path2:before,
+.skin-yellow .mm-icon-5 .path2:before
+{color: #fdc367;}
+
